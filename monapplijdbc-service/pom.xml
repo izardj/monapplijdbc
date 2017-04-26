@@ -11,6 +11,7 @@
 	<groupId>com.gtm</groupId>
 	<artifactId>monapplijdbc-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>monapplijdbc-service</name>
 	<url>http://maven.apache.org</url>
 	<properties>
