@@ -39,10 +39,10 @@
 			<artifactId>jstl</artifactId>
 			<version>1.2</version>
 		</dependency>
-		<!-- dependance a la couche metier -->
+		<!-- dependance a la couche service -->
 		<dependency>
 			<groupId>com.gtm</groupId>
-			<artifactId>monapplijdbc-metier</artifactId>
+			<artifactId>monapplijdbc-service</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>

@@ -23,10 +23,10 @@
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
-		<!-- dependance a la couche metier -->
+		<!-- dependance a la couche dao -->
 		<dependency>
 			<groupId>com.gtm</groupId>
-			<artifactId>monapplijdbc-metier</artifactId>
+			<artifactId>monapplijdbc-dao</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
