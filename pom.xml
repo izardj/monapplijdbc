@@ -27,5 +27,6 @@
   <modules>
     <module>monapplijdbc-dao</module>
     <module>monapplijdbc-service</module>
+    <module>monapplijdbc-metier</module>
   </modules>
 </project>
