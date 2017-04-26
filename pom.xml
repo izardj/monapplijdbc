@@ -26,5 +26,6 @@
 	</dependencies>
   <modules>
     <module>monapplijdbc-dao</module>
+    <module>monapplijdbc-service</module>
   </modules>
 </project>
