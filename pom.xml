@@ -24,4 +24,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+  <modules>
+    <module>monapplijdbc-dao</module>
+  </modules>
 </project>
