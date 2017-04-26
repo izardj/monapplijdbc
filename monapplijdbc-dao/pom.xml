@@ -28,5 +28,11 @@
 			<artifactId>mysql-connector-java</artifactId>
 			<version>5.1.5</version>
 		</dependency>
+		<!-- dependance a la couche metier -->
+		<dependency>
+			<groupId>com.gtm</groupId>
+			<artifactId>monapplijdbc-metier</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 </project>
